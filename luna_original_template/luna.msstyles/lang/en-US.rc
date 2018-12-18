@@ -1,0 +1,164 @@
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+
+STRINGTABLE
+{
+	1000, 	"Blue"
+}
+
+STRINGTABLE
+{
+	2000, 	"Blue color scheme"
+}
+
+STRINGTABLE
+{
+  3000, 	"Normal"
+  3001, 	"Large Fonts"
+  3002, 	"Extra Large Fonts"
+}
+
+STRINGTABLE
+{
+  4000, 	"Normal size"
+  4001, 	"Large Fonts"
+  4002, 	"Extra Large Fonts"
+}
+
+STRINGTABLE
+{
+  5000, 	"Luna"
+  5001, 	"Luna Blue XP Visual Style"
+  5002, 	"Microsoft Corporation"
+  5003, 	"Microsoft Design Team"
+  5004, 	"Copyright \xA9 Microsoft Corporation, 2000"
+  5005, 	"http://www.microsoft.com"
+  5006, 	".01"
+  5007, 	"Microsoft's Visual Style for Windows XP"
+}
+
+STRINGTABLE
+{
+  6000, 	"NormalBlue@[SysMetrics]CaptionFont=Trebuchet MS, 10, bold"
+  6001, 	"NormalBlue@[SysMetrics]SmallCaptionFont=Tahoma, 8, bold"
+  6002, 	"NormalBlue@[SysMetrics]MenuFont=Tahoma, 8"
+  6003, 	"NormalBlue@[SysMetrics]StatusFont=Tahoma, 8"
+  6004, 	"NormalBlue@[SysMetrics]MsgBoxFont=Tahoma, 8"
+  6005, 	"NormalBlue@[SysMetrics]IconTitleFont=Tahoma, 8"
+  6006, 	"NormalBlue@[button.checkbox]MirrorImage=0"
+  6007, 	"NormalBlue@[Rebar]Font=Tahoma, 8"
+  6008, 	"NormalBlue@[Window.HelpButton]MirrorImage=1"
+  6009, 	"NormalBlue@[StartPanel]DefaultPaneSize=0, 0, 380, 440"
+  6010, 	"NormalBlue@[StartPanel.UserPane]Font=Franklin Gothic Medium, 14"
+  6011, 	"NormalBlue@[StartPanel.UserPane]DefaultPaneSize=0, 0, 380, 64"
+  6012, 	"NormalBlue@[StartPanel.ProgList]DefaultPaneSize=0, 0, 190, 306"
+  6013, 	"NormalBlue@[StartPanel.MorePrograms]DefaultPaneSize=0, 0, 190, 30"
+  6014, 	"NormalBlue@[StartPanel.MorePrograms]Font=Tahoma, 8, Bold"
+  6015, 	"NormalBlue@[StartPanel.PlacesList]DefaultPaneSize=0, 0, 190, 336"
+}
+
+STRINGTABLE
+{
+  6016, 	"NormalBlue@[StartPanel.Logoff]DefaultPaneSize=0, 0, 380, 40"
+  6017, 	"NormalBlue@[Start::Button]Font=Franklin Gothic Medium, 14, italic"
+  6018, 	"NormalBlue@[StartMenu::Toolbar]Font=Tahoma, 8"
+  6019, 	"NormalBlue@[TaskBar::Toolbar]Font=Tahoma, 8"
+  6020, 	"NormalBlue@[TaskBarVert::Toolbar]Font=Tahoma, 8"
+  6021, 	"NormalBlue@[TaskBar::Rebar]Font=Tahoma, 8"
+  6022, 	"NormalBlue@[TaskBand.GroupCount]Font=Tahoma, 8, Bold"
+  6023, 	"NormalBlue@[TaskBand::Toolbar]Font=Tahoma, 8"
+  6024, 	"NormalBlue@[TaskBandVert::Toolbar]Font=Tahoma, 8"
+  6025, 	"NormalBlue@[TaskBandGroupMenu::Toolbar]Font=Tahoma, 8"
+  6026, 	"NormalBlue@[TrayNotify::Clock]Font=Tahoma, 8"
+  6027, 	"NormalBlue@[ExplorerBar.HeaderBackground]Font=Tahoma, 8, Bold"
+  6028, 	"NormalBlue@[ExplorerBar.NormalGroupBackground]Font=Tahoma, 8"
+  6029, 	"NormalBlue@[ExplorerBar.NormalGroupHead]Font=Tahoma, 8, Bold"
+  6030, 	"NormalBlue@[ExplorerBar.SpecialGroupBackground]Font=Tahoma, 8"
+  6031, 	"NormalBlue@[ExplorerBar.SpecialGroupHead]Font=Tahoma, 8, Bold"
+}
+
+STRINGTABLE
+{
+  6032, 	"NormalBlue@[ExplorerBar::Rebar]Font=Tahoma, 8"
+  6033, 	"LargeFontsBlue@[SysMetrics]CaptionFont=Trebuchet MS, 14, bold"
+  6034, 	"LargeFontsBlue@[SysMetrics]SmallCaptionFont=Tahoma, 9, bold"
+  6035, 	"LargeFontsBlue@[SysMetrics]MenuFont=Tahoma, 10"
+  6036, 	"LargeFontsBlue@[SysMetrics]StatusFont=Tahoma, 10"
+  6037, 	"LargeFontsBlue@[SysMetrics]MsgBoxFont=Tahoma, 10"
+  6038, 	"LargeFontsBlue@[SysMetrics]IconTitleFont=Tahoma, 10"
+  6039, 	"LargeFontsBlue@[button.checkbox]MirrorImage=0"
+  6040, 	"LargeFontsBlue@[Rebar]Font=Tahoma, 10"
+  6041, 	"LargeFontsBlue@[Window.HelpButton]MirrorImage=1"
+  6042, 	"LargeFontsBlue@[StartPanel]DefaultPaneSize=0, 0, 380, 440"
+  6043, 	"LargeFontsBlue@[StartPanel.UserPane]Font=Franklin Gothic Medium, 17"
+  6044, 	"LargeFontsBlue@[StartPanel.UserPane]DefaultPaneSize=0, 0, 380, 64"
+  6045, 	"LargeFontsBlue@[StartPanel.ProgList]DefaultPaneSize=0, 0, 190, 306"
+  6046, 	"LargeFontsBlue@[StartPanel.MorePrograms]DefaultPaneSize=0, 0, 190, 30"
+  6047, 	"LargeFontsBlue@[StartPanel.MorePrograms]Font=Tahoma, 10, Bold"
+}
+
+STRINGTABLE
+{
+  6048, 	"LargeFontsBlue@[StartPanel.PlacesList]DefaultPaneSize=0, 0, 190, 336"
+  6049, 	"LargeFontsBlue@[StartPanel.Logoff]DefaultPaneSize=0, 0, 380, 40"
+  6050, 	"LargeFontsBlue@[Start::Button]Font=Franklin Gothic Medium, 17, italic"
+  6051, 	"LargeFontsBlue@[StartMenu::Toolbar]Font=Tahoma, 10"
+  6052, 	"LargeFontsBlue@[TaskBar::Toolbar]Font=Tahoma, 10"
+  6053, 	"LargeFontsBlue@[TaskBarVert::Toolbar]Font=Tahoma, 10"
+  6054, 	"LargeFontsBlue@[TaskBar::Rebar]Font=Tahoma, 10"
+  6055, 	"LargeFontsBlue@[TaskBand.GroupCount]Font=Tahoma, 10, Bold"
+  6056, 	"LargeFontsBlue@[TaskBand::Toolbar]Font=Tahoma, 10"
+  6057, 	"LargeFontsBlue@[TaskBandVert::Toolbar]Font=Tahoma, 10"
+  6058, 	"LargeFontsBlue@[TaskBandGroupMenu::Toolbar]Font=Tahoma, 10"
+  6059, 	"LargeFontsBlue@[TrayNotify::Clock]Font=Tahoma, 10"
+  6060, 	"LargeFontsBlue@[ExplorerBar.HeaderBackground]Font=Tahoma, 10, Bold"
+  6061, 	"LargeFontsBlue@[ExplorerBar.NormalGroupBackground]Font=Tahoma, 10"
+  6062, 	"LargeFontsBlue@[ExplorerBar.NormalGroupHead]Font=Tahoma, 10, Bold"
+  6063, 	"LargeFontsBlue@[ExplorerBar.SpecialGroupBackground]Font=Tahoma, 10"
+}
+
+STRINGTABLE
+{
+  6064, 	"LargeFontsBlue@[ExplorerBar.SpecialGroupHead]Font=Tahoma, 10, Bold"
+  6065, 	"LargeFontsBlue@[ExplorerBar::Rebar]Font=Tahoma, 10"
+  6066, 	"ExtraLargeBlue@[SysMetrics]CaptionFont=Trebuchet MS, 17, bold"
+  6067, 	"ExtraLargeBlue@[SysMetrics]SmallCaptionFont=Tahoma, 10, bold"
+  6068, 	"ExtraLargeBlue@[SysMetrics]MenuFont=Tahoma, 12"
+  6069, 	"ExtraLargeBlue@[SysMetrics]StatusFont=Tahoma, 10"
+  6070, 	"ExtraLargeBlue@[SysMetrics]MsgBoxFont=Tahoma, 12"
+  6071, 	"ExtraLargeBlue@[SysMetrics]IconTitleFont=Tahoma, 12"
+  6072, 	"ExtraLargeBlue@[button.checkbox]MirrorImage=0"
+  6073, 	"ExtraLargeBlue@[Rebar]Font=Tahoma, 12"
+  6074, 	"ExtraLargeBlue@[Window.HelpButton]MirrorImage=1"
+  6075, 	"ExtraLargeBlue@[StartPanel]DefaultPaneSize=0, 0, 380, 440"
+  6076, 	"ExtraLargeBlue@[StartPanel.UserPane]Font=Franklin Gothic Medium, 20"
+  6077, 	"ExtraLargeBlue@[StartPanel.UserPane]DefaultPaneSize=0, 0, 380, 64"
+  6078, 	"ExtraLargeBlue@[StartPanel.ProgList]DefaultPaneSize=0, 0, 190, 306"
+  6079, 	"ExtraLargeBlue@[StartPanel.MorePrograms]DefaultPaneSize=0, 0, 190, 30"
+}
+
+STRINGTABLE
+{
+  6080, 	"ExtraLargeBlue@[StartPanel.MorePrograms]Font=Tahoma, 12, Bold"
+  6081, 	"ExtraLargeBlue@[StartPanel.PlacesList]DefaultPaneSize=0, 0, 190, 336"
+  6082, 	"ExtraLargeBlue@[StartPanel.Logoff]DefaultPaneSize=0, 0, 380, 40"
+  6083, 	"ExtraLargeBlue@[Start::Button]Font=Franklin Gothic Medium, 20, italic"
+  6084, 	"ExtraLargeBlue@[StartMenu::Toolbar]Font=Tahoma, 12"
+  6085, 	"ExtraLargeBlue@[TaskBar::Toolbar]Font=Tahoma, 12"
+  6086, 	"ExtraLargeBlue@[TaskBarVert::Toolbar]Font=Tahoma, 12"
+  6087, 	"ExtraLargeBlue@[TaskBar::Rebar]Font=Tahoma, 12"
+  6088, 	"ExtraLargeBlue@[TaskBand.GroupCount]Font=Tahoma, 12, Bold"
+  6089, 	"ExtraLargeBlue@[TaskBand::Toolbar]Font=Tahoma, 12"
+  6090, 	"ExtraLargeBlue@[TaskBandVert::Toolbar]Font=Tahoma, 12"
+  6091, 	"ExtraLargeBlue@[TaskBandGroupMenu::Toolbar]Font=Tahoma, 12"
+  6092, 	"ExtraLargeBlue@[TrayNotify::Clock]Font=Tahoma, 12"
+  6093, 	"ExtraLargeBlue@[ExplorerBar.HeaderBackground]Font=Tahoma, 12, Bold"
+  6094, 	"ExtraLargeBlue@[ExplorerBar.NormalGroupBackground]Font=Tahoma, 12"
+  6095, 	"ExtraLargeBlue@[ExplorerBar.NormalGroupHead]Font=Tahoma, 12, Bold"
+}
+
+STRINGTABLE
+{
+  6096, 	"ExtraLargeBlue@[ExplorerBar.SpecialGroupBackground]Font=Tahoma, 12"
+  6097, 	"ExtraLargeBlue@[ExplorerBar.SpecialGroupHead]Font=Tahoma, 12, Bold"
+  6098, 	"ExtraLargeBlue@[ExplorerBar::Rebar]Font=Tahoma, 12"
+}
